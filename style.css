@@ -121,3 +121,20 @@ a {
     border-radius: 10px;
 }
 
+.sect3 {
+    background-color: #E5E7EB;
+    padding: 50px 200px;
+}
+
+p.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align:justify;
+}
+
+p.credit {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 700px;
+}
