@@ -107,9 +107,17 @@ a {
     margin: 20px 120px;
 }
 
+.images p {
+    color: #1f2937;
+    font-size: 16px;
+    max-width: 150px;
+    text-align: center;
+}
+
 .randinf {
     height: 150px;
     width: 150px;
     border: 5px solid #3882F6;
     border-radius: 10px;
 }
+
