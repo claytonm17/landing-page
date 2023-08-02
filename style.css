@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Hero new', sans-serif;
+}
+
+header {
+    background-color: #1f2937;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.top ul {
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
