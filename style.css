@@ -65,7 +65,7 @@ a {
     color: #E5E7EB
 }
 
-.l-text button {
+button {
     background-color: #3882F6;
     border-radius: 10px;
     padding: 10px;
@@ -137,4 +137,27 @@ p.credit {
     text-align: right;
     font-size: 24px;
     font-weight: 700px;
+}
+
+.sect4 {
+    margin: 50px 120px;
+    padding: 40px;
+    background-color: #3882F6;
+    border: 1px solid #3882F6;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+
+.white {
+    border: 2px solid #E5E7EB;
+}
+
+footer {
+    padding: 25px;
+    text-align: center;
+    background-color:#1f2937;
+    color: #E5E7EB;
 }
